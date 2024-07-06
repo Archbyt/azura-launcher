@@ -205,7 +205,7 @@
 					FontFamily="Verdana"
 					FontSize="12"
 					FontWeight="Bold"
-					Foreground="#909090">Morgana Servers</TextBlock>
+					Foreground="#909090">AzuraOT</TextBlock>
 				<Grid
 					Grid.Row="1"
 					Margin="10, 3, 10, 3">
@@ -226,7 +226,7 @@
 						Margin="5, 0, 0, 0"
 						Foreground="#bfbfbf"
 						FontFamily="Verdana"
-						FontSize="12">Nos confins digitais de um vasto universo, surge uma nova estrela no firmamento dos servidores <LineBreak/> de jogos online. Morgana, um novo servidor global custom, desponta com promessas de aventuras <LineBreak/>sem igual, desafiando os limites da imaginação dos jogadores mais ávidos.</TextBlock>
+						FontSize="12">Nos confins digitais de um vasto universo, surge uma nova estrela no firmamento dos servidores <LineBreak/> de jogos online. AzuraOT, um novo servidor global custom, desponta com promessas de aventuras <LineBreak/>sem igual, desafiando os limites da imaginação dos jogadores mais ávidos.</TextBlock>
 				</Grid>
 
 			</Grid>
