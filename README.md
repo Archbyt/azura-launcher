@@ -1,6 +1,6 @@
 # AzuraOT - Launcher Update
 
-Laucher Update usado no projeto zyroniaot 13x.
+Laucher Update usado no projeto AzuraOT 13.40.
 
 ## Repositório Base:
 - Launcher Update: [Launcher](https://github.com/eightbites/azura-launcher)
