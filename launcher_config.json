@@ -9,8 +9,8 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 • executable The path to the client's executable file, represented as "bin/client.exe"
 */
 {
-    "clientVersion": "13.40.542178",
-	"launcherVersion": "1.3",
+    "clientVersion": "13.40.642179",
+	"launcherVersion": "1.5",
 	"replaceFolders": true,
 	"replaceFolderName": [
 		{
@@ -24,6 +24,6 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 		}
 	],
 	"clientFolder": "AzuraOT",
-	"newClientUrl" : "https://github.com/Archbyt/azura-launcher/releases/download/client/tibia.zip",
+	"newClientUrl" : "https://github.com/Archbyt/azura-launcher/releases/download/client/client-to-update.zip",
 	"clientExecutable": "client.exe"
 }
